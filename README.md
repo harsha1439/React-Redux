@@ -1,12 +1,12 @@
-# React-App-Store_Inventory_Mgmt
+# React-Redux App
 
-## A simple React implementation Which can be used for store Inventory Management.
+## A simple React-Redux App implementation Which works similar to Instagram.
 
 ## Running
 
 ### First npm install to grab all the necessary dependencies.
 
-### Then run npm start and open localhost:3000 in your browser.
+### Then run npm start and open http://localhost:7770/ in your browser.
 
 #### Production Build
 
