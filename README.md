@@ -1,10 +1,10 @@
 # React-Redux App
 
-## A simple React-Redux App implementation Which works similar to Instagram.
+## A simple React-Redux App implementation which works similar to Instagram.
 
 ## Running
 
-### First npm install to grab all the necessary dependencies.
+### First npm-install to grab all the necessary dependencies.
 
 ### Then run npm start and open http://localhost:7770/ in your browser.
 
